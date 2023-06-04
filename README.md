@@ -6,6 +6,10 @@
 - 🔗 Https://www.linkedin.com/in/vishal-prajapat-2321971ab/
 - or You can find me on www.instagram.com/vishal___prajapat
 
+ >>>>>>  COMMIT STRAK GREEN BOX IS NOT SHOWING MUCH GREEN BECUASE 
+         I HAVE DELETED SOME OLD REPO. AND I DON'T HAD INFORMATION THAT DELETION WILL REMOVE GREEN TICK FROM
+         MY COMMIT HISTRY STREAK BOX <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <!---
 vpbgkt/vpbgkt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
