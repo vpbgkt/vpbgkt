@@ -2,7 +2,8 @@
 - 👀 I’m interested in Computer sciece engineering with information and tecnology
 - 🌱 I’m currently learning Coding...
 - 💞️ I’m looking to collaborate on ...
-- 📫 to reach me vpbgkt@gmail.com 
+- 📫 To reach me vpbgkt@gmail.com 
+- 🔗 Https://www.linkedin.com/in/vishal-prajapat-2321971ab/
 - or You can find me on www.instagram.com/vishal___prajapat
 
 <!---
