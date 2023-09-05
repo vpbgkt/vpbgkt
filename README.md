@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vpbgkt
-- 👀 I’m interested in Computer science engineering with information and technology
+- 👀 I’m in Computer science engineering with information and technology
 - 🌱 I’m currently learning Coding...
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me vpbgkt@gmail.com 
